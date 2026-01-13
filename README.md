@@ -16,6 +16,7 @@ A personalized AI Tutor.
 1. Navigate to the frontend folder and open dedicated terminal: `cd frontend`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
+4. PLEASE NOTE THAT I WILL TRY MY BEST TO HOST MY BACKEND AND FRONTEND IN OTHER FREE SERVERS SUCH AS VERCEL AND RENDER INSTEAD OF LOCAL HOST.
 
 ## How to Run Backend
 1. Open terminal for the backend folder.
